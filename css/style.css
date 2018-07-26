@@ -41,6 +41,10 @@ header {
 
 /*////////// Sections //////////*/
 
+h2 {
+	color: rgb(157, 173, 168)
+}
+
 .about {
 	color: rgb(86, 99, 111);
 }
