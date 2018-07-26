@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Domine');
 
 /*////////// Global Styles //////////*/
 
@@ -23,5 +23,5 @@ body {
 /*////////// Header //////////*/
 
 header {
-	font-family: 'Cinzel', serif;
+	font-family: 'Domine', serif;
 }
