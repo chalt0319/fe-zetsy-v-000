@@ -49,7 +49,10 @@ h2 {
 	color: rgb(86, 99, 111);
 }
 
-a img {
+a {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
 	border-style: solid;
 	color: rgb(157, 173, 168)
 }
