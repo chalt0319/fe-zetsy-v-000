@@ -42,7 +42,7 @@ header {
 /*////////// Sections //////////*/
 
 h2 {
-	color: rgb(113, 126, 116)
+	color: rgb(113, 126, 116);
 	font-size: 13px;
 }
 
@@ -52,7 +52,7 @@ h2 {
 
 a {
 	border-style: solid;
-	color: rgb(157, 173, 168)
+	color: rgb(157, 173, 168);
 }
 
 /*////////// Footer //////////*/
@@ -60,6 +60,6 @@ a {
 footer {
 	text-align: right;
 	padding-top: 20px;
-	font-size: 10px:
-	color: rgb(157, 173, 168)
+	font-size: 10px;
+	color: rgb(157, 173, 168);
 }
