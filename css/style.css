@@ -25,5 +25,6 @@ body {
 header {
 	font-family: 'Domine', serif;
 	font-size: 31px;
+	position: relative;
+	top: -22px;
 }
-
