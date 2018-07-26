@@ -28,5 +28,10 @@ header {
 	font-family: 'Domine', serif;
 	font-size: 31px;
 	padding-top: 20px;
+}
 
+/*////////// Header //////////*/
+
+#img {
+	margin: 0 auto;
 }
