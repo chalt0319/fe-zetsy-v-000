@@ -11,6 +11,7 @@ body {
 	font-family: 'Times New Roman', serif;
 	position: relative;
 	top: -42px;
+	color: rgb(157, 173, 168)
 }
 
 .wrapper {
@@ -28,6 +29,7 @@ header {
 	font-family: 'Domine', serif;
 	font-size: 31px;
 	padding-top: 20px;
+	color: rgb(157, 173, 168)
 }
 
 /*////////// Header //////////*/
