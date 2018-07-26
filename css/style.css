@@ -9,6 +9,8 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	position: relative;
+	top: -22px;
 }
 
 .wrapper {
@@ -25,6 +27,5 @@ body {
 header {
 	font-family: 'Domine', serif;
 	font-size: 31px;
-	position: relative;
-	top: -22px;
+	
 }
