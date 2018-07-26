@@ -48,3 +48,8 @@ h2 {
 .about {
 	color: rgb(86, 99, 111);
 }
+
+a {
+	border-style: solid;
+	color: rgb(157, 173, 168)
+}
