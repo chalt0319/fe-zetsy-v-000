@@ -58,8 +58,8 @@ h2 {
 	color: rgb(157, 173, 168);
 }
 
-.links a:hover {
-	boder-width: 20px;
+a:hover {
+	boder-width: medium;
 }
 
 /*////////// Footer //////////*/
