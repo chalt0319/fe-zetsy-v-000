@@ -50,9 +50,12 @@ h2 {
 }
 
 a {
-	box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
 	border-style: solid;
 	color: rgb(157, 173, 168)
+}
+
+/*////////// Footer //////////*/
+
+footer {
+	text-align: right;
 }
